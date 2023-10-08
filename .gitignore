@@ -1,0 +1,4 @@
+.env
+results-test-st.txt
+*.zip
+out
